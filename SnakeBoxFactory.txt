@@ -1,0 +1,3 @@
+Objetos: Caixas, Cobras, Clientes, Contas;
+Propriedades: Nome, Tipo, ID, Data de Inicio;
+Comportamentos: Entrega, Transporte;
